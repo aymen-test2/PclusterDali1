@@ -14,7 +14,7 @@ __global__ void simple_kernel(float *d_data, int n) {
             d_data[idx] = sinf(d_data[idx]);
         }
     }
-}
+} 
 
 int main() {
     int n = 1000000;
