@@ -13,6 +13,5 @@ spec:
    time: 01:00:00  
    partition: queue1 
    constraint: g4dn.xlarge
-   gres: gpu:1 
- 
+   gres: gpu:1  
  
