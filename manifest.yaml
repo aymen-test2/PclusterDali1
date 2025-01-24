@@ -15,5 +15,4 @@ spec:
    constraint: g4dn.xlarge 
    gres: gpu:1  
  
-dddd
  
